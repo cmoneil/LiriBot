@@ -591,3 +591,106 @@
         Preview link: https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7
         Album name: The Hits--Chapter One
         ---------------------
+,Command: my-tweets, 
+
+            ----------------------------
+            Tweet #0 created at Sun May 13 03:08:25 +0000 2018
+            You tweeted: @mulaney Just got in a fight with my wife about the color of your jacket and shoes in Kid Gorgeous. Can you help? M… https://t.co/UQfHJmTwIu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #1 created at Mon Dec 11 01:00:43 +0000 2017
+            You tweeted: @MarriottRewards 15 yard line #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #2 created at Sun Nov 12 21:47:14 +0000 2017
+            You tweeted: @MarriottRewards @NFL 11 #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #3 created at Sun Oct 29 19:35:28 +0000 2017
+            You tweeted: @MarriottRewards 10ft #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #4 created at Sun Oct 22 18:24:41 +0000 2017
+            You tweeted: @MarriottRewards @NFL Pennsylvania #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #5 created at Sat Aug 19 22:37:36 +0000 2017
+            You tweeted: @SpiritAirlines I've tried booking a flight on my computer and on my phone and when I click book reservation nothing happens
+            ----------------------------
+            
+            ----------------------------
+            Tweet #6 created at Fri Feb 03 23:47:16 +0000 2017
+            You tweeted: @dawestheband I have 4 tickets I need to sell at face value. Will be out front the  State Theater around 730.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #7 created at Sun Dec 06 00:18:18 +0000 2015
+            You tweeted: @SheaSerrano broke my hand getting it out of the box. Not really. Broke it getting a rebound.  Too old for ball. https://t.co/bAyAvtQ4cu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #8 created at Fri May 15 09:05:34 +0000 2015
+            You tweeted: |LIVE NOW|  #meerkat http://t.co/mw0m6CRHQ6
+            ----------------------------
+            
+            ----------------------------
+            Tweet #9 created at Wed May 13 12:28:16 +0000 2015
+            You tweeted: @Chawk1003 one of those bros got fired 
+ http://t.co/NtbTYXQu91
+            ----------------------------
+            
+            ----------------------------
+            Tweet #10 created at Sat Apr 11 19:56:36 +0000 2015
+            You tweeted: @joelmchale #BeerFight Surly Furious, Steel Toe Size 7, Indeed Day Tripper, Summit Saga
+            ----------------------------
+            
+            ----------------------------
+            Tweet #11 created at Sat Sep 13 05:15:25 +0000 2014
+            You tweeted: RT @classickicksnyc: Air Max 95 http://t.co/hnMv2VCqfi
+            ----------------------------
+            
+            ----------------------------
+            Tweet #12 created at Fri Sep 12 10:44:33 +0000 2014
+            You tweeted: RT @tferriss: The joy of peeing outside under moonlight is hugely underrated.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #13 created at Sun Sep 07 22:25:28 +0000 2014
+            You tweeted: RT @Baseball_Photos: Retweet if Bo Jackson is the greatest athlete you've ever seen. #BoKnows http://t.co/XhE5FpOhxb
+            ----------------------------
+            
+            ----------------------------
+            Tweet #14 created at Sat Aug 30 02:08:55 +0000 2014
+            You tweeted: @Nate_Hintze the twitter account lives
+            ----------------------------
+            
+            ----------------------------
+            Tweet #15 created at Sun Aug 17 05:52:45 +0000 2014
+            You tweeted: @royalsauthority I was there. Ventura was not sharp the whole game.  It was definitely #Yosted
+            ----------------------------
+            
+            ----------------------------
+            Tweet #16 created at Thu Jul 24 00:22:41 +0000 2014
+            You tweeted: @KCChiefs @ArrowheadPride Where can I get a hat like Tamba had on in that interview?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #17 created at Sun Jul 13 18:50:41 +0000 2014
+            You tweeted: @keithlaw thanks
+            ----------------------------
+            
+            ----------------------------
+            Tweet #18 created at Sun Jul 13 18:46:37 +0000 2014
+            You tweeted: @keithlaw are you still doing a meet up before the game?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #19 created at Sat Jul 12 20:39:53 +0000 2014
+            You tweeted: @ProfessorParks Are you going to be in Minneapolis for the futures game and beverages?  #dark #want
+            ----------------------------
+            

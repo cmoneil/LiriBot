@@ -1,4 +1,4 @@
-require("dotenv").config();
+
 
 var Spotify = require('node-spotify-api');
 var Twitter = require('twitter');
@@ -41,11 +41,14 @@ function appendToLog() {
 
     });
 }
-var twitName = { screen_name: 'rockchalk_02' };
 function myTweets() {
+var params = {
+     screen_name: 'rockchalk_02' 
+    };
+
     appendToLog();
     client.get('statuses/user_timeline', function (error, tweets, response) {
-        if (error) throw error;
+        if (error) console.log(error);
 
         var i;
         for (i = 0; i < 20; i++) {

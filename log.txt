@@ -1,0 +1,593 @@
+
+,Command: movie-this, Little Mermaid
+ 
+            --------------------------
+            The movie is: Little Mermaid
+            The movie came out in: 2016
+            The movie's IMDB rating is: 4.3
+            The movie's Rotten Tomatoes rating is: N/A
+            The movie was produced in: USA
+            The movie's language is: English
+            The movie's plot is : Based off of the tale by Hans Christian Andersen, Little Mermaid tells the story of a young mermaid leaving the sea for a human she thinks that she knows. Everything isn't as it seemed and she must face the harsh realities of the world.
+            The movie's actors are: Rosie Mac, Matt Martin, Roxie Blum, Erin Marie Garrett
+            --------------------------
+,Command: movie-this, the Little Mermaid
+ 
+            --------------------------
+            The movie is: The Little Mermaid
+            The movie came out in: 1989
+            The movie's IMDB rating is: 7.6
+            The movie's Rotten Tomatoes rating is:92%
+            The movie was produced in: USA
+            The movie's language is: English, French
+            The movie's plot is : A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.
+            The movie's actors are: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+            --------------------------
+,Command: spotify-this-song, Straight to hell
+
+        --------------------
+        The artist name is: The Clash 
+        The song name is: Straight to hell
+        Preview link: https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS
+        Album name: Combat Rock
+        ---------------------
+,Command: spotify-this-song, She thinks my tractor is sexy
+
+        --------------------
+        The artist name is: The Callous Daoboys 
+        The song name is: She thinks my tractor is sexy
+        Preview link: https://api.spotify.com/v1/artists/4ZWRLOs7c4drt9mKGc0Ds0
+        Album name: My Dixie Wrecked
+        ---------------------
+,Command: spotify-this-song, She thinks my tractors sexy
+
+        --------------------
+        The artist name is: Kenny Chesney 
+        The song name is: She thinks my tractors sexy
+        Preview link: https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O
+        Album name: Everywhere We Go
+        ---------------------
+,Command: movie-this, The Avengers
+ 
+            --------------------------
+            The movie is: The Avengers
+            The movie came out in: 2012
+            The movie's IMDB rating is: 8.1
+            The movie's Rotten Tomatoes rating is:92%
+            The movie was produced in: USA
+            The movie's language is: English, Russian, Hindi
+            The movie's plot is : Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+            The movie's actors are: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+            --------------------------
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: spotify-this-song, 
+
+        --------------------
+        The artist name is: Ace of Base 
+        The song name is: The Sign, Ace of Base
+        Preview link: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+        Album name: The Sign (US Album) [Remastered]
+        ---------------------
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+            ----------------------------
+            Tweet #0 created at Sun May 13 03:08:25 +0000 2018
+            You tweeted: @mulaney Just got in a fight with my wife about the color of your jacket and shoes in Kid Gorgeous. Can you help? M… https://t.co/UQfHJmTwIu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #1 created at Mon Dec 11 01:00:43 +0000 2017
+            You tweeted: @MarriottRewards 15 yard line #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #2 created at Sun Nov 12 21:47:14 +0000 2017
+            You tweeted: @MarriottRewards @NFL 11 #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #3 created at Sun Oct 29 19:35:28 +0000 2017
+            You tweeted: @MarriottRewards 10ft #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #4 created at Sun Oct 22 18:24:41 +0000 2017
+            You tweeted: @MarriottRewards @NFL Pennsylvania #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #5 created at Sat Aug 19 22:37:36 +0000 2017
+            You tweeted: @SpiritAirlines I've tried booking a flight on my computer and on my phone and when I click book reservation nothing happens
+            ----------------------------
+            
+            ----------------------------
+            Tweet #6 created at Fri Feb 03 23:47:16 +0000 2017
+            You tweeted: @dawestheband I have 4 tickets I need to sell at face value. Will be out front the  State Theater around 730.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #7 created at Sun Dec 06 00:18:18 +0000 2015
+            You tweeted: @SheaSerrano broke my hand getting it out of the box. Not really. Broke it getting a rebound.  Too old for ball. https://t.co/bAyAvtQ4cu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #8 created at Fri May 15 09:05:34 +0000 2015
+            You tweeted: |LIVE NOW|  #meerkat http://t.co/mw0m6CRHQ6
+            ----------------------------
+            
+            ----------------------------
+            Tweet #9 created at Wed May 13 12:28:16 +0000 2015
+            You tweeted: @Chawk1003 one of those bros got fired 
+ http://t.co/NtbTYXQu91
+            ----------------------------
+            
+            ----------------------------
+            Tweet #10 created at Sat Apr 11 19:56:36 +0000 2015
+            You tweeted: @joelmchale #BeerFight Surly Furious, Steel Toe Size 7, Indeed Day Tripper, Summit Saga
+            ----------------------------
+            
+            ----------------------------
+            Tweet #11 created at Sat Sep 13 05:15:25 +0000 2014
+            You tweeted: RT @classickicksnyc: Air Max 95 http://t.co/hnMv2VCqfi
+            ----------------------------
+            
+            ----------------------------
+            Tweet #12 created at Fri Sep 12 10:44:33 +0000 2014
+            You tweeted: RT @tferriss: The joy of peeing outside under moonlight is hugely underrated.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #13 created at Sun Sep 07 22:25:28 +0000 2014
+            You tweeted: RT @Baseball_Photos: Retweet if Bo Jackson is the greatest athlete you've ever seen. #BoKnows http://t.co/XhE5FpOhxb
+            ----------------------------
+            
+            ----------------------------
+            Tweet #14 created at Sat Aug 30 02:08:55 +0000 2014
+            You tweeted: @Nate_Hintze the twitter account lives
+            ----------------------------
+            
+            ----------------------------
+            Tweet #15 created at Sun Aug 17 05:52:45 +0000 2014
+            You tweeted: @royalsauthority I was there. Ventura was not sharp the whole game.  It was definitely #Yosted
+            ----------------------------
+            
+            ----------------------------
+            Tweet #16 created at Thu Jul 24 00:22:41 +0000 2014
+            You tweeted: @KCChiefs @ArrowheadPride Where can I get a hat like Tamba had on in that interview?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #17 created at Sun Jul 13 18:50:41 +0000 2014
+            You tweeted: @keithlaw thanks
+            ----------------------------
+            
+            ----------------------------
+            Tweet #18 created at Sun Jul 13 18:46:37 +0000 2014
+            You tweeted: @keithlaw are you still doing a meet up before the game?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #19 created at Sat Jul 12 20:39:53 +0000 2014
+            You tweeted: @ProfessorParks Are you going to be in Minneapolis for the futures game and beverages?  #dark #want
+            ----------------------------
+            
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+            ----------------------------
+            Tweet #0 created at Sun May 13 03:08:25 +0000 2018
+            You tweeted: @mulaney Just got in a fight with my wife about the color of your jacket and shoes in Kid Gorgeous. Can you help? M… https://t.co/UQfHJmTwIu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #1 created at Mon Dec 11 01:00:43 +0000 2017
+            You tweeted: @MarriottRewards 15 yard line #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #2 created at Sun Nov 12 21:47:14 +0000 2017
+            You tweeted: @MarriottRewards @NFL 11 #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #4 created at Sun Oct 22 18:24:41 +0000 2017
+            You tweeted: @MarriottRewards @NFL Pennsylvania #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #3 created at Sun Oct 29 19:35:28 +0000 2017
+            You tweeted: @MarriottRewards 10ft #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #5 created at Sat Aug 19 22:37:36 +0000 2017
+            You tweeted: @SpiritAirlines I've tried booking a flight on my computer and on my phone and when I click book reservation nothing happens
+            ----------------------------
+            
+            ----------------------------
+            Tweet #6 created at Fri Feb 03 23:47:16 +0000 2017
+            You tweeted: @dawestheband I have 4 tickets I need to sell at face value. Will be out front the  State Theater around 730.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #7 created at Sun Dec 06 00:18:18 +0000 2015
+            You tweeted: @SheaSerrano broke my hand getting it out of the box. Not really. Broke it getting a rebound.  Too old for ball. https://t.co/bAyAvtQ4cu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #8 created at Fri May 15 09:05:34 +0000 2015
+            You tweeted: |LIVE NOW|  #meerkat http://t.co/mw0m6CRHQ6
+            ----------------------------
+            
+            ----------------------------
+            Tweet #9 created at Wed May 13 12:28:16 +0000 2015
+            You tweeted: @Chawk1003 one of those bros got fired 
+ http://t.co/NtbTYXQu91
+            ----------------------------
+            
+            ----------------------------
+            Tweet #10 created at Sat Apr 11 19:56:36 +0000 2015
+            You tweeted: @joelmchale #BeerFight Surly Furious, Steel Toe Size 7, Indeed Day Tripper, Summit Saga
+            ----------------------------
+            
+            ----------------------------
+            Tweet #11 created at Sat Sep 13 05:15:25 +0000 2014
+            You tweeted: RT @classickicksnyc: Air Max 95 http://t.co/hnMv2VCqfi
+            ----------------------------
+            
+            ----------------------------
+            Tweet #12 created at Fri Sep 12 10:44:33 +0000 2014
+            You tweeted: RT @tferriss: The joy of peeing outside under moonlight is hugely underrated.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #13 created at Sun Sep 07 22:25:28 +0000 2014
+            You tweeted: RT @Baseball_Photos: Retweet if Bo Jackson is the greatest athlete you've ever seen. #BoKnows http://t.co/XhE5FpOhxb
+            ----------------------------
+            
+            ----------------------------
+            Tweet #14 created at Sat Aug 30 02:08:55 +0000 2014
+            You tweeted: @Nate_Hintze the twitter account lives
+            ----------------------------
+            
+            ----------------------------
+            Tweet #15 created at Sun Aug 17 05:52:45 +0000 2014
+            You tweeted: @royalsauthority I was there. Ventura was not sharp the whole game.  It was definitely #Yosted
+            ----------------------------
+            
+            ----------------------------
+            Tweet #16 created at Thu Jul 24 00:22:41 +0000 2014
+            You tweeted: @KCChiefs @ArrowheadPride Where can I get a hat like Tamba had on in that interview?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #17 created at Sun Jul 13 18:50:41 +0000 2014
+            You tweeted: @keithlaw thanks
+            ----------------------------
+            
+            ----------------------------
+            Tweet #18 created at Sun Jul 13 18:46:37 +0000 2014
+            You tweeted: @keithlaw are you still doing a meet up before the game?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #19 created at Sat Jul 12 20:39:53 +0000 2014
+            You tweeted: @ProfessorParks Are you going to be in Minneapolis for the futures game and beverages?  #dark #want
+            ----------------------------
+            
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+            ----------------------------
+            Tweet #1 created at Mon Dec 11 01:00:43 +0000 2017
+            You tweeted: @MarriottRewards 15 yard line #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #0 created at Sun May 13 03:08:25 +0000 2018
+            You tweeted: @mulaney Just got in a fight with my wife about the color of your jacket and shoes in Kid Gorgeous. Can you help? M… https://t.co/UQfHJmTwIu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #2 created at Sun Nov 12 21:47:14 +0000 2017
+            You tweeted: @MarriottRewards @NFL 11 #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #3 created at Sun Oct 29 19:35:28 +0000 2017
+            You tweeted: @MarriottRewards 10ft #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #4 created at Sun Oct 22 18:24:41 +0000 2017
+            You tweeted: @MarriottRewards @NFL Pennsylvania #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #5 created at Sat Aug 19 22:37:36 +0000 2017
+            You tweeted: @SpiritAirlines I've tried booking a flight on my computer and on my phone and when I click book reservation nothing happens
+            ----------------------------
+            
+            ----------------------------
+            Tweet #6 created at Fri Feb 03 23:47:16 +0000 2017
+            You tweeted: @dawestheband I have 4 tickets I need to sell at face value. Will be out front the  State Theater around 730.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #7 created at Sun Dec 06 00:18:18 +0000 2015
+            You tweeted: @SheaSerrano broke my hand getting it out of the box. Not really. Broke it getting a rebound.  Too old for ball. https://t.co/bAyAvtQ4cu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #8 created at Fri May 15 09:05:34 +0000 2015
+            You tweeted: |LIVE NOW|  #meerkat http://t.co/mw0m6CRHQ6
+            ----------------------------
+            
+            ----------------------------
+            Tweet #9 created at Wed May 13 12:28:16 +0000 2015
+            You tweeted: @Chawk1003 one of those bros got fired 
+ http://t.co/NtbTYXQu91
+            ----------------------------
+            
+            ----------------------------
+            Tweet #10 created at Sat Apr 11 19:56:36 +0000 2015
+            You tweeted: @joelmchale #BeerFight Surly Furious, Steel Toe Size 7, Indeed Day Tripper, Summit Saga
+            ----------------------------
+            
+            ----------------------------
+            Tweet #11 created at Sat Sep 13 05:15:25 +0000 2014
+            You tweeted: RT @classickicksnyc: Air Max 95 http://t.co/hnMv2VCqfi
+            ----------------------------
+            
+            ----------------------------
+            Tweet #12 created at Fri Sep 12 10:44:33 +0000 2014
+            You tweeted: RT @tferriss: The joy of peeing outside under moonlight is hugely underrated.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #13 created at Sun Sep 07 22:25:28 +0000 2014
+            You tweeted: RT @Baseball_Photos: Retweet if Bo Jackson is the greatest athlete you've ever seen. #BoKnows http://t.co/XhE5FpOhxb
+            ----------------------------
+            
+            ----------------------------
+            Tweet #14 created at Sat Aug 30 02:08:55 +0000 2014
+            You tweeted: @Nate_Hintze the twitter account lives
+            ----------------------------
+            
+            ----------------------------
+            Tweet #15 created at Sun Aug 17 05:52:45 +0000 2014
+            You tweeted: @royalsauthority I was there. Ventura was not sharp the whole game.  It was definitely #Yosted
+            ----------------------------
+            
+            ----------------------------
+            Tweet #16 created at Thu Jul 24 00:22:41 +0000 2014
+            You tweeted: @KCChiefs @ArrowheadPride Where can I get a hat like Tamba had on in that interview?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #17 created at Sun Jul 13 18:50:41 +0000 2014
+            You tweeted: @keithlaw thanks
+            ----------------------------
+            
+            ----------------------------
+            Tweet #18 created at Sun Jul 13 18:46:37 +0000 2014
+            You tweeted: @keithlaw are you still doing a meet up before the game?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #19 created at Sat Jul 12 20:39:53 +0000 2014
+            You tweeted: @ProfessorParks Are you going to be in Minneapolis for the futures game and beverages?  #dark #want
+            ----------------------------
+            
+,Command: my-tweets, 
+
+,Command: my-tweets, 
+
+            ----------------------------
+            Tweet #0 created at Sun May 13 03:08:25 +0000 2018
+            You tweeted: @mulaney Just got in a fight with my wife about the color of your jacket and shoes in Kid Gorgeous. Can you help? M… https://t.co/UQfHJmTwIu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #1 created at Mon Dec 11 01:00:43 +0000 2017
+            You tweeted: @MarriottRewards 15 yard line #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #2 created at Sun Nov 12 21:47:14 +0000 2017
+            You tweeted: @MarriottRewards @NFL 11 #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #3 created at Sun Oct 29 19:35:28 +0000 2017
+            You tweeted: @MarriottRewards 10ft #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #4 created at Sun Oct 22 18:24:41 +0000 2017
+            You tweeted: @MarriottRewards @NFL Pennsylvania #RewardsPoints
+            ----------------------------
+            
+            ----------------------------
+            Tweet #5 created at Sat Aug 19 22:37:36 +0000 2017
+            You tweeted: @SpiritAirlines I've tried booking a flight on my computer and on my phone and when I click book reservation nothing happens
+            ----------------------------
+            
+            ----------------------------
+            Tweet #6 created at Fri Feb 03 23:47:16 +0000 2017
+            You tweeted: @dawestheband I have 4 tickets I need to sell at face value. Will be out front the  State Theater around 730.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #7 created at Sun Dec 06 00:18:18 +0000 2015
+            You tweeted: @SheaSerrano broke my hand getting it out of the box. Not really. Broke it getting a rebound.  Too old for ball. https://t.co/bAyAvtQ4cu
+            ----------------------------
+            
+            ----------------------------
+            Tweet #8 created at Fri May 15 09:05:34 +0000 2015
+            You tweeted: |LIVE NOW|  #meerkat http://t.co/mw0m6CRHQ6
+            ----------------------------
+            
+            ----------------------------
+            Tweet #9 created at Wed May 13 12:28:16 +0000 2015
+            You tweeted: @Chawk1003 one of those bros got fired 
+ http://t.co/NtbTYXQu91
+            ----------------------------
+            
+            ----------------------------
+            Tweet #10 created at Sat Apr 11 19:56:36 +0000 2015
+            You tweeted: @joelmchale #BeerFight Surly Furious, Steel Toe Size 7, Indeed Day Tripper, Summit Saga
+            ----------------------------
+            
+            ----------------------------
+            Tweet #11 created at Sat Sep 13 05:15:25 +0000 2014
+            You tweeted: RT @classickicksnyc: Air Max 95 http://t.co/hnMv2VCqfi
+            ----------------------------
+            
+            ----------------------------
+            Tweet #12 created at Fri Sep 12 10:44:33 +0000 2014
+            You tweeted: RT @tferriss: The joy of peeing outside under moonlight is hugely underrated.
+            ----------------------------
+            
+            ----------------------------
+            Tweet #13 created at Sun Sep 07 22:25:28 +0000 2014
+            You tweeted: RT @Baseball_Photos: Retweet if Bo Jackson is the greatest athlete you've ever seen. #BoKnows http://t.co/XhE5FpOhxb
+            ----------------------------
+            
+            ----------------------------
+            Tweet #14 created at Sat Aug 30 02:08:55 +0000 2014
+            You tweeted: @Nate_Hintze the twitter account lives
+            ----------------------------
+            
+            ----------------------------
+            Tweet #15 created at Sun Aug 17 05:52:45 +0000 2014
+            You tweeted: @royalsauthority I was there. Ventura was not sharp the whole game.  It was definitely #Yosted
+            ----------------------------
+            
+            ----------------------------
+            Tweet #16 created at Thu Jul 24 00:22:41 +0000 2014
+            You tweeted: @KCChiefs @ArrowheadPride Where can I get a hat like Tamba had on in that interview?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #17 created at Sun Jul 13 18:50:41 +0000 2014
+            You tweeted: @keithlaw thanks
+            ----------------------------
+            
+            ----------------------------
+            Tweet #18 created at Sun Jul 13 18:46:37 +0000 2014
+            You tweeted: @keithlaw are you still doing a meet up before the game?
+            ----------------------------
+            
+            ----------------------------
+            Tweet #19 created at Sat Jul 12 20:39:53 +0000 2014
+            You tweeted: @ProfessorParks Are you going to be in Minneapolis for the futures game and beverages?  #dark #want
+            ----------------------------
+            
+,Command: spotify-this-song, Purple
+
+        --------------------
+        The artist name is: Prince 
+        The song name is: Purple
+        Preview link: https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j
+        Album name: Purple Rain
+        ---------------------
+,Command: spotify-this-song, Purple
+
+        --------------------
+        The artist name is: Prince 
+        The song name is: Purple
+        Preview link: https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j
+        Album name: Purple Rain
+        ---------------------
+,Command: spotify-this-song, Purple
+
+        --------------------
+        The artist name is: Prince 
+        The song name is: Purple
+        Preview link: https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j
+        Album name: Purple Rain
+        ---------------------
+,Command: spotify-this-song, purple rain
+
+        --------------------
+        The artist name is: Prince 
+        The song name is: purple rain
+        Preview link: https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j
+        Album name: Purple Rain
+        ---------------------
+,Command: movie-this, Mr. Nobody
+ 
+            --------------------------
+            The movie is: Mr. Nobody
+            The movie came out in: 2009
+            The movie's IMDB rating is: 7.8
+            The movie's Rotten Tomatoes rating is:67%
+            The movie was produced in: Belgium, Germany, Canada, France, USA, UK
+            The movie's language is: English, Mohawk
+            The movie's plot is : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+            The movie's actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            --------------------------
+,Command: spotify-this-song, 
+
+        --------------------
+        The artist name is: Ace of Base 
+        The song name is: The Sign, Ace of Base
+        Preview link: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+        Album name: The Sign (US Album) [Remastered]
+        ---------------------
+,Command: spotify-this-song, 
+
+        --------------------
+        The artist name is: Ace of Base 
+        The song name is: The Sign, Ace of Base
+        Preview link: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+        Album name: The Sign (US Album) [Remastered]
+        ---------------------
+,Command: movie-this, Mr. Nobody
+ 
+            --------------------------
+            The movie is: Mr. Nobody
+            The movie came out in: 2009
+            The movie's IMDB rating is: 7.8
+            The movie's Rotten Tomatoes rating is:67%
+            The movie was produced in: Belgium, Germany, Canada, France, USA, UK
+            The movie's language is: English, Mohawk
+            The movie's plot is : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+            The movie's actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            --------------------------
+,Command: spotify-this-song, "I Want it That Way"
+
+,Command: spotify-this-song, "I Want it That Way"
+
+        --------------------
+        The artist name is: Backstreet Boys 
+        The song name is: "I Want it That Way"
+        Preview link: https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7
+        Album name: The Hits--Chapter One
+        ---------------------
